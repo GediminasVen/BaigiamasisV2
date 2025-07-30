@@ -46,7 +46,7 @@ export default function NavBar() {
 
                         </Nav.Item>
                         <Nav.Item>
-                            <NavDropdown title="About" id="nav-about" alignLeft>                                
+                            <NavDropdown title="About" id="nav-about" align="start">                                
                                 <NavDropdown.Item as={Link} to="/about" onClick={() => updateExpanded(false)}>About Me</NavDropdown.Item>
                                 <NavDropdown.Item as={Link} to="/skills" onClick={() => updateExpanded(false)}>My Skills</NavDropdown.Item>
                                 <NavDropdown.Item as={Link} to="/experience" onClick={() => updateExpanded(false)}>Experience</NavDropdown.Item>

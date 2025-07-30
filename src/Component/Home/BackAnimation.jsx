@@ -7,7 +7,7 @@ export default function BackAnimation() {
     return (
         <div className='hero-solution hero-solution-wrap' id="wrap">
             <div className="main-wrap">
-                <div class='wrap'>
+                <div className='wrap'>
                     <div class='c'></div>
                     <div class='c'></div>
                     <div class='c'></div>
