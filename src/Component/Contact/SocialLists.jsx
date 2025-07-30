@@ -40,13 +40,7 @@ export default function SocialLists() {
                     </a>
                 </div>
             </li>
-            {/* <li className="social-icons">
-                <div className="social-list-icons">
-                    <a href="https://www.youtube.com/" style={{ color: "white" }} target="_blank" rel="noopener noreferrer">
-                        <FaYoutube size={25} />
-                    </a>
-                </div>
-            </li> */}
+             
         </ul>
     );
 }

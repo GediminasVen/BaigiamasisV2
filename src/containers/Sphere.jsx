@@ -41,7 +41,6 @@ class Sphere extends Component {
             <div className="tags_cloud">
                 <div id={this.props.id + "Container"}>
                     <canvas width={this.props.width} height={this.props.height} id={this.props.id}>
-                        <p>Anything in here will be replaced on browsers that support the canvas element</p>
                     </canvas>
                 </div>
                 <div id={this.props.id + "Tags"} className="sphere-tags">

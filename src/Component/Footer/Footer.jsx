@@ -1,8 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 import { Container, Row, Col } from "react-bootstrap";
-import { FaHeart } from "react-icons/fa";
-import { FaStar } from 'react-icons/fa';
 
 
 
