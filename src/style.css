@@ -1509,7 +1509,7 @@ p {
 
 .project {
   width: 30% !important;
-  border: 1.7px solid rgba(200, 137, 230, 0.637) !important;
+  border: 1.7px solid rgba(110, 204, 242, 0.637) !important;
   border-radius: 15px;
   margin-top: 10px !important;
   margin-bottom: 40px !important;
@@ -1517,7 +1517,7 @@ p {
   margin-right: 8px !important;
   padding: 10px;
   color: white;
-  box-shadow: 4px 5px 4px 3px rgba(141, 48, 228, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(48, 189, 228, 0.272) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s, transform 0.2s !important;
   opacity: 0.93 !important;
@@ -1723,8 +1723,12 @@ p {
 
 .hero-solution .hero-solution-wrap .container-fluid {
   display: contents;
+  border-radius: 20px;
 }
 
+#hero, #home-about, #skill, #exprience, #service, #portfolio, #choose-me, #news{
+  border-radius: 20px;
+}
 .home-padd {
   padding-top: 15px;
 }
