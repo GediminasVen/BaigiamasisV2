@@ -27,7 +27,7 @@ export default function ServiceSection() {
     const settings = { nextArrow: <SampleNextArrow />, prevArrow: <SamplePrevArrow /> };
 
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className='business-service-content' id='service'>
                 <BackAnimation />
                 <h4 className='section-title'>QA Services I Offer</h4>

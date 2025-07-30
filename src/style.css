@@ -1650,6 +1650,8 @@ p {
 /* --------- */
 
 
+
+
 .circle-container {
   position: relative;
   width: 450px;
@@ -1721,6 +1723,10 @@ p {
 
 .hero-solution .hero-solution-wrap .container-fluid {
   display: contents;
+}
+
+.home-padd {
+  padding-top: 15px;
 }
 
 

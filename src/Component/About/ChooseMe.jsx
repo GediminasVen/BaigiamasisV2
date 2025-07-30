@@ -21,7 +21,7 @@ export default function ChooseMe() {
     ]
 
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className="choose-me-container" id='choose-me'>
                 <BackAnimation />
                 <h4 className='section-title'>Why Choose Me</h4>

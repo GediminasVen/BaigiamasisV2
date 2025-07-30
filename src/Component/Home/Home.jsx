@@ -14,7 +14,7 @@ import ChooseMe from '../About/ChooseMe';
 
 function Home() {
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className="home-section" id="home">
                 <HeroSection />
                 <HomeAbout />

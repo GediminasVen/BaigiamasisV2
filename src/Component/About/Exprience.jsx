@@ -83,7 +83,7 @@ export default function Experience() {
     ];
 
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className='industry-exprience-content' id='exprience'>
                 <BackAnimation />
                 <h4 className='section-title'>My Experience</h4>

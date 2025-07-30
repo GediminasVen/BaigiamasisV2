@@ -8,7 +8,7 @@ import BackAnimation from './BackAnimation';
 export default function HomeAbout() {
     const [expand, updateExpanded] = useState(false);
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className="home-about-section" id="home-about">
                 <BackAnimation />
                 <h4 className='section-title'>Who am I</h4>

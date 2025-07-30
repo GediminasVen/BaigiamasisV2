@@ -18,7 +18,7 @@ const Portfolio = () => {
             : projects.filter((project) => project.category === activeFilter);
 
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className='portfolio-filter-content' id="portfolio">
                 <BackAnimation />
                 <h4 className='section-title'>My QA Projects</h4>

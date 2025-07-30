@@ -35,7 +35,7 @@ export default function Skills() {
     const [focus, setFocus] = React.useState(false);
     const [isVisible, setVisible] = React.useState(false);
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className="skill-section" id="skill">
                 <BackAnimation />
                 <h4 className="section-title">My QA Skills</h4>

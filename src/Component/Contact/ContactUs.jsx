@@ -17,7 +17,7 @@ export default function ContactUs() {
     }
 
     return (
-        <section>
+        <section className='home-padd'>
             <Container fluid className="news-section" id="news">
                 <BackAnimation />
                 <h4 className='section-title'>connect with me</h4>
