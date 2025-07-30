@@ -6,7 +6,6 @@ import BackAnimation from '../Home/BackAnimation';
 
 
 export default function ChooseMe() {
-    const [expand, updateExpanded] = useState(false);
 
     const webcontant = [
         { id: 1, name: 'Skillful Development', para: 'I bring strong expertise in web development and frontend technologies, ensuring your portfolio is built with precision, reliability, and adherence to industry best practices.', link: '#' },
