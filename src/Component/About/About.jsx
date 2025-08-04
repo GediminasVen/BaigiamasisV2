@@ -12,7 +12,7 @@ export default function About() {
                 <div className="about-banner d-flex align-items-center">
                     <div className="container">
                         <div className="about-banner-content">
-                            <h3>Welcome, My name is Gediminas Venslovaitis, you can find more information about me here.</h3>
+                            <h3>Welcome, My name is Gediminas Venslovaitis, you can find more information about me here</h3>
                             <div className="banner-service">
                                 <div className="section-title-2">
                                     <h4>Service</h4>
